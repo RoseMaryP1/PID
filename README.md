@@ -4,7 +4,11 @@
   
   ## Results / Reflection
   
-  ![Result](/Results/pathplanning.png)
+  Result from simulator
+  ![Result](/Results/PID Result 1.PNG)
+  
+  Results from terminal
+  ![Result](/Results/PID Result 2.PNG)
   
   ## Dependencies
 
