@@ -5,10 +5,12 @@
   ## Results / Reflection
   
   Result from simulator
-  ![Result](/Results/PID Result 1.PNG)
+  
+  ![Result](/Results/PID_Result_1.PNG)
   
   Results from terminal
-  ![Result](/Results/PID Result 2.PNG)
+  
+  ![Result](/Results/PID_Result_2.PNG)
   
   ## Dependencies
 
